@@ -1,0 +1,4 @@
+# place all constants here 
+USER_ID = "aneeshwashere"
+# figure out how to make token last longer
+TOKEN = "BQAsW5ZE-77zy8SmzgNrd6-Ucr50hSoSFOeZ862eg8k_59EZElKg9nYgHpegqBS3XQwFgl29NAYVZk2SfU5qsOPta75FN6svDs2iDlvwk6qTlJns1iSu67IPMJicu69Csj3eJeRRDyksznRsjC_iPxKzM9iR_vqW5VWMAIu0fTwKtF-tfcIxn7FbYtnI8WVj6iaAqv136RLv-K2M5Zzc2ZSbknQ7L8rFEXBaBmnT3bEuuJm1"
